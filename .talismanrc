@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: dist/index.js
+  checksum: 667391125864f4be8f36c35e9ed45a8f66ab3240de93341f89543d05d354c1bd
+- filename: package-lock.json
+  checksum: ee935e4f43f1ff543e2601008f501a5b6a9ffe7017b66562e72b91f96f27ba70
